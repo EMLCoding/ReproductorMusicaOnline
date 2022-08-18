@@ -8,6 +8,6 @@ Reproduce música alojada en servidores (es posible que en el momento de probarl
 Music player made with Angular and Angular Material.
 Play music hosted on servers (it is possible that at the time of testing some songs do not work because they are no longer available)
 
-<img width="320px" src="https://github.com/EMLCoding/ReproductorMusicaOnline/blob/master/images/main_screen.png" />
+<img width="520px" src="https://github.com/EMLCoding/ReproductorMusicaOnline/blob/master/images/main_screen.png" />
 
 
